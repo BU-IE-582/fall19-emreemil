@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```markdown
-[Here is Homework 2](Homework 1\IE582 Homework1.ipynb)
+[Here is Homework 2](Homework 1/IE582 Homework1.ipynb)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
