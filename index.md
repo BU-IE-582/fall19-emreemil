@@ -6,4 +6,4 @@
 
 [Homework 2 Code](Homework 2/IE582 Homework2.ipynb)
 
-[Homework 2 html document](Homework 2/IE582 Homework2.html)
+
