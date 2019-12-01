@@ -7,3 +7,7 @@
 [Homework 2 Code](Homework 2/IE582 Homework2.ipynb)
 
 [Homework 2 html document](Homework 2/IE582 Homework2.html)
+
+[Homework 3 Code](Homework 3/IE582 Homework3.ipynb)
+
+[Homework 3 html document](Homework 3/IE582 Homework3.html)
