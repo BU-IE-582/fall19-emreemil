@@ -12,4 +12,6 @@
 
 [Homework 3 html document](Homework 3/IE582 Homework3.html)
 
+[Homework 4 Code](Homework 4/IE582 Homework4.ipynb)
 
+[Homework 4 html document](Homework 4/IE582 Homework4.html)
