@@ -15,3 +15,7 @@
 [Homework 4 Code](Homework 4/IE582 Homework4.ipynb)
 
 [Homework 4 html document](Homework 4/IE582 Homework4.html)
+
+[Project Code](Project/Group3_Project_Code.ipynb)
+
+[Project Code html document](Project/Group3_Project_Code.html)
