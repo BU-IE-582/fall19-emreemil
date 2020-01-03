@@ -19,3 +19,8 @@
 [Project Code](Project/Group3_Project_Code.ipynb)
 
 [Project Code html document](Project/Group3_Project_Code.html)
+
+[Project Report](Project/Group3_Project_Report.ipynb)
+
+[Project Report html document](Project/Group3_Project_Report.html)
+
